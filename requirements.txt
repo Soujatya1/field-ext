@@ -1,4 +1,4 @@
 google-cloud-vision
-google-oauth2
+google-auth
 streamlit
 pandas
