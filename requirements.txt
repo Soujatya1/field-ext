@@ -1,2 +1,4 @@
+google-cloud-vision
+google-oauth2-tool
 streamlit
-openai
+pandas
